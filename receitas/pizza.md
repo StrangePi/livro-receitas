@@ -1,4 +1,6 @@
-#Ingredientes:
+# 					Ingredientes :pizza::pizza:
+
+
 
 - 1 kg de farinha de trigo
 - 30 g de fermento biológico
@@ -8,7 +10,9 @@
 - 1 colher (chá) de açúcar
 - 1 colher (sopa) de pinga
 
-#Modo de Preparo:
+  # 				Modo de Preparo :spoon:
+
+
 
 1. Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido.
 2. Em seguida, adicione metade da medida de farinha de trigo, o óleo e mexa até criar uma consistência pastosa.
@@ -17,4 +21,5 @@
 5. Abra os discos, fure a massa com um garfo e pincele o molho.
 6. Leve ao forno médio (180° C), preaquecido, por 15 minutos.
 
-Fonte : TudoGostoso;
+Src = TudoGostoso:earth_americas:
+
